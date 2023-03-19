@@ -1,1 +1,57 @@
 /*  your css code here. If applicable */
+.rtpcr{ 
+	text-align:center; 
+	background-color:#011e29;
+	color:white;  
+}
+.header{
+	background-color:#011e29;
+	height:50px;
+	padding-bottom:0px;  
+	background-size:cover;
+} 
+.image1{
+	width:200px; 
+	display:block;
+	margin:10px;
+}
+.image2{
+	width:200px;
+	display:block;
+	margin:10px;
+}  
+.image3{
+	width:200px;
+	padding:15px; 
+}
+.item2{
+	width:300px;
+	height:250px; 
+	background-color:white; 
+	border-radius:10%; 
+}
+.container{
+	display:flex;
+	gap:10px;  
+}
+.item1{
+	width:170px; 
+	height:150px; 
+	background-color:white; 
+	border-radius:10%;
+}
+body{
+	background-color: #f5f5f5;
+}
+.item3{
+	width:250px; 
+	height:450px;  
+	background-color:white; 
+	border-radius:10%;  
+}
+.article{
+	text-align:center;
+} 
+	.p{ 
+	text-align:center;  
+}
