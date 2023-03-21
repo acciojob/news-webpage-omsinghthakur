@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-.rtpcr{ 
-	text-align:center; 
+.rtpcr{  
 	background-color:#011e29;
 	color:white;
 	padding-top:10px; 
 }
 .header{
+	text-align:center; 
 	background-color:#011e29;
 	height:50px;
 	padding-bottom:0px;  
